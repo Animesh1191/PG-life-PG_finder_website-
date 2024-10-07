@@ -1,0 +1,49 @@
+PG Life
+
+Overview :
+PG Life is a user-friendly web platform that helps individuals find comfortable Paying Guest (PG) accommodations with ease. Whether you're a student, a working professional, or just someone looking for a place to stay, PG Life Master allows you to explore a variety of PG options based on your preferences like location, budget, and amenities.
+
+Key Features :
+Explore PG Listings: 
+Browse through a wide range of PG accommodations with detailed descriptions, photos, and amenities.
+
+Personal Dashboard: 
+Users can create profiles, save favorite listings, and manage their bookings or inquiries all in one place.
+
+Detailed Property Information: 
+Get all the details you need about each PG, including rent, facilities, and location on the map.
+
+Search and Filters: 
+Use filters to refine your search by price, city, or specific amenities like Wi-Fi, meals, or laundry services.
+
+Responsive Design: 
+Access the platform seamlessly from any device, whether it’s a laptop, tablet, or smartphone.
+
+
+Technologies Used
+
+Frontend: Built using HTML, CSS, and JavaScript with Bootstrap for a clean, responsive design.
+
+Backend (to be integrated): Java with Spring Boot for backend services, MySQL for the database.
+
+Assets: A variety of images and icons used for user interface elements and property visuals.
+
+
+Folder Structure
+HTML Files:
+
+index.html: The homepage where users can search for PGs.
+dashboard.html: A personalized user area to manage saved PGs and inquiries.
+property_list.html: Displays PGs matching the user's search criteria.
+property_detail.html: Shows more information about a specific PG.
+
+CSS Files:
+
+common.css, home.css, dashboard.css: Each file handles styling for different sections of the platform.
+Images:
+
+A collection of icons, logos, and property images to make the UI visually appealing.
+
+
+Conclusion
+PG Life simplifies the search for PG accommodations by providing a clean, easy-to-use platform. With its responsive design, rich feature set, and the potential for backend integration, it’s a solution that caters to anyone in need of a place to stay. As the project evolves, there are numerous possibilities for enhancement, from adding booking features to implementing secure payments and more interactive user experiences.
